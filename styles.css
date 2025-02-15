@@ -61,7 +61,7 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    background: url('https://raw.githubusercontent.com/usuario/repositorio/main/imagenes/hero_setup.jpg') no-repeat center center/cover;
+    background: url('Portafolio/imagenes/hero_setup.jpg') no-repeat center center/cover;
     padding: 0 10%;
     position: relative;
 }
